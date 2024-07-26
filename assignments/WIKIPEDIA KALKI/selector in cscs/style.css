@@ -1,0 +1,25 @@
+*{
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}
+#selector{
+    background-color: aqua;
+    border: 2px dotted green;
+#css{
+    border: 4px;
+}
+}
+input[type="text"]{
+    background-color: orange;
+}
+[type="password"]{
+    background-color: green;
+}
+.a1{
+    background-color: lightpink;
+    text-decoration: line-through;
+    
+}
+p{
+    background-color: aquamarine;
+}

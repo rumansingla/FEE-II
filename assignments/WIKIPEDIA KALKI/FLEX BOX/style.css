@@ -1,0 +1,42 @@
+body{
+    
+    background-color: indigo;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+
+
+h1{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    
+}
+
+#container{
+    background-color: lightskyblue;
+    height: 400px;
+    width: 400px;
+    border: 2px solid black;
+    display: flex;
+
+   
+
+    flex-direction: column;
+   
+
+    justify-content: space-evenly;
+   
+    flex-wrap:wrap-reverse;
+
+  
+    align-items: flex-start;
+   
+}
+
+.items{
+    height: 50px;
+    width: 50px;
+}

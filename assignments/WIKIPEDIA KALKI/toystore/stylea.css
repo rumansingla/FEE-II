@@ -1,0 +1,17 @@
+*{
+    padding: 0px;
+
+    box-sizing: border-box;
+}
+nav{
+    background-color: blue;
+    display: flex;
+    justify-content: space-around;
+    padding: 1.6rem;
+}
+nav ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style: none;
+    width: 600px;
+}
